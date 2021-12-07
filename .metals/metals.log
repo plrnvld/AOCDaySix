@@ -2257,3 +2257,5 @@ Dec 07, 2021 8:51:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 686
 [0m2021.12.07 20:51:29 WARN  no build target for: /home/runner/AOCDaySix/main.scala[0m
 [0m2021.12.07 20:51:32 WARN  no build target for: /home/runner/AOCDaySix/main.scala[0m
+Dec 07, 2021 8:51:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 693
